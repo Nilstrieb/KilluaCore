@@ -39,4 +39,5 @@ For examples, visit the [KilluaBot](https://github.com/Nilstrieb/KilluaBot) repo
 
 ## How to use this
 
-You can just download the code here and copy it into your own bot.
+You can just download the code here and copy it into your own bot. No crediting is required, but I'd appreciate it if
+you linked or mentioned KilluaCore somewhere in you project, but you don't have to. 
