@@ -1,0 +1,5 @@
+target
+.idea
+*.class
+Secrets.java
+src\main\java\com\github\nilstrieb\cofig/Secrets.java
